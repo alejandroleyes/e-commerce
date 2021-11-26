@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<desc>Created with Fabric.js 1.7.22</desc>
+<defs>
+</defs>
+<g transform="translate(128 128) scale(0.72 0.72)" style="">
+	<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+	<path d="M 73.231 63.041 H 29.274 c -4.98 0 -9.138 -3.574 -9.886 -8.498 l -5.53 -36.395 c -0.131 -0.864 0.121 -1.743 0.691 -2.406 c 0.57 -0.663 1.4 -1.044 2.275 -1.044 h 66.313 c 2.08 0 4.023 0.927 5.333 2.543 c 1.309 1.617 1.812 3.711 1.379 5.746 l -6.836 32.134 C 82.036 59.71 77.923 63.041 73.231 63.041 z M 20.313 20.698 l 5.006 32.945 c 0.299 1.969 1.962 3.398 3.955 3.398 h 43.958 c 1.877 0 3.521 -1.332 3.912 -3.168 l 6.836 -32.134 c 0.074 -0.35 -0.076 -0.602 -0.173 -0.722 c -0.097 -0.119 -0.313 -0.319 -0.67 -0.319 H 20.313 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(246,246,246); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 16.819 20.698 c -1.482 0 -2.771 -1.099 -2.97 -2.608 l -0.584 -4.425 c -0.204 -1.548 -1.536 -2.716 -3.097 -2.716 H 3 c -1.657 0 -3 -1.343 -3 -3 s 1.343 -3 3 -3 h 7.168 c 4.561 0 8.449 3.41 9.045 7.931 l 0.584 4.425 c 0.217 1.643 -0.939 3.15 -2.582 3.367 C 17.083 20.689 16.95 20.698 16.819 20.698 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(246,246,246); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<circle cx="29.55" cy="75.05" r="7" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(246,246,246); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+	<circle cx="70.72999999999999" cy="75.05" r="7" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(246,246,246); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+</g>
+</g>
+</svg>
