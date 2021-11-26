@@ -10,6 +10,7 @@ import Pay from "./Pages/Pay/Pay"
 import NotFound from "./Pages/NotFound/NotFound"
 
 function App() {
+  document.title = "React e-commerce"
   return (
     <StoreProvider>
       <BrowserRouter>
